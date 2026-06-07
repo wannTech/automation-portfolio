@@ -40,6 +40,11 @@ Baca jadwal konten dari Google Sheets, auto posting di jam yang ditentuin, updat
 Bot AI yang menjawab pertanyaan pelanggan secara otomatis berdasarkan FAQ toko. Support Telegram dan WhatsApp.
 - **Tech:** Python, Groq API, Llama 3, Flask, Telegram Bot API
 - **Folder:** `ai-cs-bot/`
+
+### 8. ✍️ Auto Content Writer
+Input nama produk, AI otomatis generate caption Instagram dan email promo sekaligus.
+- **Tech:** Python, Groq API, Llama 3
+- **Folder:** `content-writer/`
 ---
 
 ## 🛠️ Tech Stack
