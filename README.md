@@ -45,6 +45,11 @@ Bot AI yang menjawab pertanyaan pelanggan secara otomatis berdasarkan FAQ toko. 
 Input nama produk, AI otomatis generate caption Instagram dan email promo sekaligus.
 - **Tech:** Python, Groq API, Llama 3
 - **Folder:** `content-writer/`
+
+### 9. 📬 AI Email Sorter
+Baca inbox email, AI kategorikan otomatis (URGENT, INQUIRY, COMPLAINT, SPAM, INFO), simpan hasil sorting ke file.
+- **Tech:** Python, Groq API, Llama 3, IMAP Gmail
+- **Folder:** `email-sorter/`
 ---
 
 ## 🛠️ Tech Stack
@@ -58,6 +63,7 @@ Input nama produk, AI otomatis generate caption Instagram dan email promo sekali
 - Google Sheets API
 - Schedul
 - Groq API (Llama 3)
+- IMAP Gmail
 
 ---
 
