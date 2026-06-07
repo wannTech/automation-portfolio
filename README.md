@@ -35,6 +35,11 @@ Baca lead baru dari Airtable, kirim email balasan otomatis yang dipersonalisasi,
 Baca jadwal konten dari Google Sheets, auto posting di jam yang ditentuin, update status otomatis.
 - **Tech:** Python, Google Sheets API, Schedule
 - **Folder:** `social-scheduler/`
+
+### 7. 🤖 AI Customer Service Bot
+Bot AI yang menjawab pertanyaan pelanggan secara otomatis berdasarkan FAQ toko. Support Telegram dan WhatsApp.
+- **Tech:** Python, Groq API, Llama 3, Flask, Telegram Bot API
+- **Folder:** `ai-cs-bot/`
 ---
 
 ## 🛠️ Tech Stack
@@ -46,7 +51,8 @@ Baca jadwal konten dari Google Sheets, auto posting di jam yang ditentuin, updat
 - Airtable API
 - SMTP Gmail
 - Google Sheets API
-- Schedule
+- Schedul
+- Groq API (Llama 3)
 
 ---
 
