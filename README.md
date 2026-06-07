@@ -31,6 +31,10 @@ Baca lead baru dari Airtable, kirim email balasan otomatis yang dipersonalisasi,
 - **Tech:** Python, Airtable API, SMTP Gmail
 - **Folder:** `lead-autoresponder/`
 
+### 6. 📅 Social Media Scheduler
+Baca jadwal konten dari Google Sheets, auto posting di jam yang ditentuin, update status otomatis.
+- **Tech:** Python, Google Sheets API, Schedule
+- **Folder:** `social-scheduler/`
 ---
 
 ## 🛠️ Tech Stack
@@ -41,6 +45,8 @@ Baca lead baru dari Airtable, kirim email balasan otomatis yang dipersonalisasi,
 - Telegram Bot API
 - Airtable API
 - SMTP Gmail
+- Google Sheets API
+- Schedule
 
 ---
 
