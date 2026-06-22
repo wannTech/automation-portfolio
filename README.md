@@ -50,6 +50,11 @@ Input nama produk, AI otomatis generate caption Instagram dan email promo sekali
 Baca inbox email, AI kategorikan otomatis (URGENT, INQUIRY, COMPLAINT, SPAM, INFO), simpan hasil sorting ke file.
 - **Tech:** Python, Groq API, Llama 3, IMAP Gmail
 - **Folder:** `email-sorter/`
+
+### 10. 🌐 **AI Web Agent**  
+Otomatisasi interaksi dengan website berbasis AI — bot bisa browsing, scroll, baca konten, dan memutuskan sendiri langkah selanjutnya (BROWSE/DONE) pakai AI.  
+  **Tech:** Python, Playwright, BeautifulSoup, Groq API (Llama 3.1), python-dotenv  
+  **Folder:** `ai-web-agent/`
 ---
 
 ## 🛠️ Tech Stack
@@ -64,6 +69,7 @@ Baca inbox email, AI kategorikan otomatis (URGENT, INQUIRY, COMPLAINT, SPAM, INF
 - Schedul
 - Groq API (Llama 3)
 - IMAP Gmail
+- python-dotenv
 
 ---
 
