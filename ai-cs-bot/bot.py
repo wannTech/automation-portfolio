@@ -73,12 +73,4 @@ def whatsapp_webhook():
     return "ok"
 
 if __name__ == "__main__":
-    print("Test AI CS Bot")
-    print("Ketik pertanyaan, tekan Enter. Ketik 'quit' untuk keluar.\n")
-    
-    while True:
-        pertanyaan = input("Pelanggan: ")
-        if pertanyaan.lower() == "quit":
-            break
-        jawaban = tanya_ai(pertanyaan)
-        print(f"Bot: {jawaban}\n")
+    app.run(host="0.0.0.0", port=5000, debug=True)
