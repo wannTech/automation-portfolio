@@ -51,10 +51,10 @@ Baca inbox email, AI kategorikan otomatis (URGENT, INQUIRY, COMPLAINT, SPAM, INF
 - **Tech:** Python, Groq API, Llama 3, IMAP Gmail
 - **Folder:** `email-sorter/`
 
-### 10. 🌐 AI Web Agent  
-Otomatisasi interaksi dengan website berbasis AI — bot bisa browsing, scroll, baca konten, dan memutuskan sendiri langkah selanjutnya (BROWSE/DONE) pakai AI.  
-  **Tech:** Python, Playwright, BeautifulSoup, Groq API (Llama 3.1), python-dotenv  
-  **Folder:** `ai-web-agent/`
+### 10. 🌐 AI Web Agent
+Bot AI yang menjelajahi website dan memutuskan sendiri langkah selanjutnya pakai Groq AI.
+- **Tech:** Python, Playwright, BeautifulSoup, Groq API (Llama 3.1), python-dotenv
+- **Folder:** `ai-web-agent/`
 ---
 
 ## 🛠️ Tech Stack
